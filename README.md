@@ -1,6 +1,6 @@
 # Hi, I'm Juan Trujillo 👋
 
-**Full Stack Developer & AI Engineer** based in Cali, Colombia (UTC-5) — I build web products end to end and integrate LLMs into real business workflows.
+**Full Stack Developer & AI Engineer** ([portfolio](https://juan-trujillo.netlify.app)) based in Cali, Colombia (UTC-5) — I build web products end to end and integrate LLMs into real business workflows.
 
 - 🧾 Founder of **Clientum Studio** and creator of **[Clivaro](https://clivaro.app)**, a multi-tenant ERP + POS SaaS for small businesses in Colombia.
 - 🤖 3 years integrating AI into business apps: LLM assistants, chatbots, AI agents and workflow automation.
@@ -43,4 +43,5 @@
 
 - LinkedIn: [juan-trujillo-67410014a](https://www.linkedin.com/in/juan-trujillo-67410014a)
 - Email: [trujillojuanjose05@gmail.com](mailto:trujillojuanjose05@gmail.com)
-- Website: [clivaro.app](https://clivaro.app)
+- Portfolio: [juan-trujillo.netlify.app](https://juan-trujillo.netlify.app)
+- Clivaro: [clivaro.app](https://clivaro.app)
