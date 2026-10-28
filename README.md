@@ -5,7 +5,7 @@
 - 🧾 Founder of **Clientum Studio** and creator of **[Clivaro](https://clivaro.app)**, a multi-tenant ERP + POS SaaS for small businesses in Colombia.
 - 🤖 3 years integrating AI into business apps: LLM assistants, chatbots, AI agents and workflow automation.
 - 🧪 I care about shipping well-tested code: Vitest, Playwright and CI on every change.
-- 🌎 Open to remote roles · English B2 · Spanish native
+- 🌎 Open to remote roles · English C1 · Spanish native
 
 ---
 
